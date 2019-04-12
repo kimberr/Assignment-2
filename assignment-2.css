@@ -1,24 +1,22 @@
 body {
-	background-color: lightblue;
+	background-image: url('https://www.transparenttextures.com/patterns/cartographer.png');
 }
 
 .mainheader {
-	background-image: url('https://www.skateism.com/wp-content/uploads/2019/02/orange.jpg');
+	background-image: url('https://i.pinimg.com/originals/23/d7/4e/23d74e06260d45a85d81e9a877a0c0f2.jpg');
+	background-repeat: repeat-x
 	font-family: Ariel;
+	border-radius: 10px;
 	border: 2px solid black;
 	letter-spacing: 2px
 }
 
 .headerlinks {
-<<<<<<< HEAD
-	padding-bottom: 35px;
-=======
-	padding-bottom: 50px;
->>>>>>> master
+	padding-bottom: 60px;
 	display: inline-block;
-	margin-left: 50px;
-	margin-right: 50px;
-	font-size: 1.2em;
+	margin-left: 75px;
+	margin-right: 80px;
+	font-size: 1.4em;
 }
 
 a {
@@ -38,28 +36,26 @@ a:hover {
 }
 
 .main {
-<<<<<<< HEAD
 	margin-left: 40px;
 	margin-right: 40px;
-	margin-top: -160;
-=======
-	margin-top: -103px;
->>>>>>> master
+	margin-top: -60px;
+	border-radius: 10px;
 	border: 2px solid black;
 	padding: 20px;
-	padding-top: 60px;
-	background-color: lightblue;
+	padding-top: 50px;
 }
 
 h1 {
-	display: block;
-	padding: 20px;
+	padding-top: 15px;
+}
+
+.mainhead {
+	display: inline-block;
+	margin-left: 10px;
+	margin-top: -55px;
 	letter-spacing: 2px;
-	background-color: orange;
-	border: 2px solid black;
 	font-family: Ariel;
-	font-size: 2em;
-	text-align:center;
+	font-size: 2.1em;
 }
 
 .mainimage {
@@ -72,7 +68,14 @@ h1 {
 }
 
 .mainpar {
+	margin-top: 10px;
+	display: inline-block;
+	text-indent: 40px;
 	font-size: 2em;
+}
+
+.list {
+	margin-top: -30px;
 }
 
 .bulletimg {
@@ -80,16 +83,15 @@ h1 {
 }
 
 footer {
+	margin-top: 20px;
 	padding: 15px;
 	text-align: center;
+	border-radius: 10px;
 	border: 2px solid black;
-	background-color: orange;
-<<<<<<< HEAD
+	background-color: lightgrey;
 }
 
 ul {
+	font-size: 1.3em;
 	margin: 5px;
 }
-=======
-}
->>>>>>> master
